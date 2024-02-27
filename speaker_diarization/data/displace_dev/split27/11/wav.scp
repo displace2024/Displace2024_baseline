@@ -1,2 +1,0 @@
-B044 sox /data1/apoorvak/DISPLACE_dev/data/wav/B044.wav -t wav -b 16 - rate 16000 remix 1 |
-B046 sox /data1/apoorvak/DISPLACE_dev/data/wav/B046.wav -t wav -b 16 - rate 16000 remix 1 |

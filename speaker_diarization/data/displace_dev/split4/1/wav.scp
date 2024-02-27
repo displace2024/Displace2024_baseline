@@ -1,1 +1,0 @@
-B007 sox /data1/apoorvak/DISPLACE_dev/data/wav/B007.wav -t wav -b 16 - rate 16000 remix 1 |

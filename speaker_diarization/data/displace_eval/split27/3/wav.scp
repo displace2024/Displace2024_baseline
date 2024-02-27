@@ -1,1 +1,0 @@
-B023 sox /data1/apoorvak/DISPLACE_eval/data/wav/B023.wav -t wav -b 16 - rate 16000 remix 1 |
