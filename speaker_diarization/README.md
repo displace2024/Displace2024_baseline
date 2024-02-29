@@ -113,10 +113,10 @@ Expected DER for the baseline system on the Displace challenge DEV set is presen
 
 **Table 1: Baseline speaker diarization results for the DISPLACE development set using SC and SC followed by VB-HMM resegmentation with overlap handling.**
 
-|  Method           | DER (Dev)   | 
-| ------------------| ----------- |
-| SC                |   30.44     |       
-| VB-HMM + Overlap  |   29.16     |
+|  Method           | DER (Dev)   | DER (Eval) |
+| ------------------| ----------- | -----------|
+| SC                |   30.44     |   35.52    |
+| VB-HMM + Overlap  |   29.16     |   34.76    |
   
 
   
